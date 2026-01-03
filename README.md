@@ -202,8 +202,8 @@ streamlit run app.py --server.port 8502
 
 ## 👥 Authors
 
-- **Nishant Hegde**
-- **Suneesh Bare**
+- **[Nishant Hegde](https://github.com/kernelops)**
+- **[Suneesh Bare](https://github.com/Bare009)**
 
 ---
 
